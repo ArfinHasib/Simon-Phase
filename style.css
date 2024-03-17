@@ -16,18 +16,25 @@ body {
    align-items: center;
 }
 
-.red {
+.blue {
    background-color: #401f71;
 }
-
-.green {
-   background-color: #008dda;
+.yellow {
+   background-color: #fdc81b;
 }
 
-.blue {
+.red {
    background-color: #ff204e;
 }
 
-.yellow {
+.green {
    background-color: #114232;
+}
+
+.flash {
+   background-color: #fff;
+}
+
+.userflash {
+   background-color: #2debf1;
 }
